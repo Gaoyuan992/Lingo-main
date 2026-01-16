@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.vs/
+*.log
+.DS_Store
+.vscode/
+uploads/
+*.exe
+*.msi
+*.zip
