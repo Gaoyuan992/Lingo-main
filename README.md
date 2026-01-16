@@ -1,4 +1,4 @@
-# Lingo - 智能文创平台
+# Lingo - 智能文创网页
 
 <p align="center">
   <img src="logo.jpg" alt="Lingo Logo" width="200" height="200">
