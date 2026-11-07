@@ -1,3 +1,4 @@
 # Lingo-main
-简易的智能文创生成平台网页搭建
-npm run dev
+一款智能生成文创设计图的软件
+目前未接入大模型api
+前端：React+CSS
